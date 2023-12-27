@@ -17,5 +17,5 @@ marioclub-website is a straightforward web project that showcases built with sim
 Feel free to clone or fork this repository if you'd like to use marioclub-website as a template for your own projects. Simply open the `index.html` file in your preferred web browser to view the website locally.
 
 ```bash
-git clone https://github.com/your-username/marioclub-website.git
+git clone https://github.com/Mansiv75/marioclub-website.git
 cd your-website
